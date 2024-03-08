@@ -3,9 +3,11 @@
 ## Test deploy pages:
 
 ### Api:
+<span style="color:red;">The first loading takes time!</span><br>
 https://medecine-delivery.onrender.com/api/pharmacies
 
 ### Client:
+<span style="color:red;">The first loading takes time!</span><br>
 https://next-medicine-delivery.vercel.app/
 
 ###   The Medicine Delivery application provides users with the ability to access information about the prices of various medications from different online pharmacies, place orders for these products, and also add items to favorites. The application consists of both server-side and client-side components.

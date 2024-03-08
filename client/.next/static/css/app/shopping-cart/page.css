@@ -1,0 +1,141 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/components/CartForm/CartForm.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.CartForm_formWrapper__HoqAo {
+  width: 40%;
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 20px;
+  max-height: 70dvh;
+  overflow-y: auto;
+}
+
+.CartForm_formItem__BKi1D {
+  margin-bottom: 20px;
+}
+
+.CartForm_label__5IzMq {
+  margin-bottom: 10px;
+}
+
+.CartForm_error__tvhK_ {
+  color: red;
+}
+
+.CartForm_btn__F1dON {
+  position: fixed;
+  top: 0;
+  left: -400px;
+}
+
+.CartForm_area__7r57p {
+  max-height: 300px;
+}
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/components/CartProduct/CartProduct.module.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.CartProduct_container__Q2mMO {
+  display: flex;
+  column-gap: 20px;
+  border: 2px solid #aaa7a7;
+  border-radius: 10px;
+  padding: 30px 10px;
+}
+
+.CartProduct_imgWrapper__ald0F {
+  width: 200px;
+  height: 150px;
+}
+
+.CartProduct_itemImg__HAsRE {
+  object-fit: cover;
+}
+
+.CartProduct_itemContent__zzpAD {
+  width: 450px;
+  padding-top: 20px;
+}
+
+.CartProduct_productTitle__UBshd {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.CartProduct_price__mrUGQ {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.CartProduct_quantityBlock__v674L {
+  display: flex;
+  justify-content: center;
+}
+
+.CartProduct_quantity__UM3US {
+  position: relative;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  width: 200px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 40px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.CartProduct_changeBlock__WAWnw {
+  position: absolute;
+  top: 0;
+  right: 5px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+  z-index: 10;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/components/Cart/Cart.module.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Cart_container__OQpnj {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  overflow-y: auto;
+  width: 55%;
+  height: 70dvh;
+  max-height: 70dvh;
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.Cart_message__uh54R {
+  font-size: 20px;
+  color: darkred;
+}
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/app/shopping-cart/page.module.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.page_container__46oDg {
+  padding-top: 20px;
+  display: flex;
+  gap: 20px;
+}
+
+.page_totalBlockContent__D2PWH {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 42%;
+  width: 50%;
+  justify-content: space-between;
+}
+
+.page_total__ue_Ne {
+  font-size: 20px;
+  font-weight: 600;
+}
